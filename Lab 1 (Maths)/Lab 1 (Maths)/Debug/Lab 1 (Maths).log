@@ -1,0 +1,29 @@
+﻿  Lab1.cpp
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(10,10): warning C4129: 'E': secuencia de escape de carácter no reconocida
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(13,12): error C2131: la expresión no se evaluó como una constante
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(13,12): message : el error se debió a una lectura de una variable fuera de su duración
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(13,12): message : consulte el uso de 'n'
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(13,17): error C2131: la expresión no se evaluó como una constante
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(13,15): message : el error se debió a una lectura de una variable fuera de su duración
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(13,15): message : consulte el uso de 'n'
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(14,12): error C2131: la expresión no se evaluó como una constante
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(14,12): message : el error se debió a una lectura de una variable fuera de su duración
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(14,12): message : consulte el uso de 'n'
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(16,10): warning C4129: 'E': secuencia de escape de carácter no reconocida
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(21,8): warning C4552: ">>": el resultado de la expresión no se usa
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(28,7): error C2668: 'abs': llamada ambigua a una función sobrecargada
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdlib(31,46): message : puede ser 'long double abs(long double) noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdlib(27,40): message : o       'float abs(float) noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdlib(23,41): message : o       'double abs(double) noexcept'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(368,22): message : o       '__int64 abs(const __int64) throw()'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(363,17): message : o       'long abs(const long) throw()'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(464,38): message : o       'int abs(int)'
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(28,7): message : al hacer coincidir la lista de argumentos '(float [n][n+1])'
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(32,16): error C3863: el tipo de matriz 'float [n][n+1]' no es asignable
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(32,51): error C3863: el tipo de matriz 'float [n][n+1]' no es asignable
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(32,86): error C3863: el tipo de matriz 'float [n][n+1]' no es asignable
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(45,15): error C3863: el tipo de matriz 'float [n][n+1]' no es asignable
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(53,10): error C3863: el tipo de matriz 'float [n]' no es asignable
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(59,12): error C3863: el tipo de matriz 'float [n]' no es asignable
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(62,10): error C3863: el tipo de matriz 'float [n]' no es asignable
+C:\Users\martalj1\Desktop\Lab 1 (Maths)\Lab 1 (Maths)\Lab1.cpp(68,18): warning C4552: "<<": el resultado de la expresión no se usa
